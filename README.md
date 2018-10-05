@@ -1,0 +1,2 @@
+# Magento-2-Ajax-Cart-Extension-No-Page-Reloading
+Rescue cart abandonment - Bring the power of AJAX to your Magento 2 checkout.  Installing a Magneto 2 AJAX Cart Pro extension to your site can make a world of difference in customers shopping journey. This kind of extensions allows customers to continue shopping without waiting for pages to reload each time adding items to cart or removing items from the cart.
